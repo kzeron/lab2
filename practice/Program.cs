@@ -13,7 +13,7 @@ class Program
     static void Main(string[] args)
     {
 
-        string plainText = "Ку";
+        string plainText = "Поставьте 5";
 
         // Шифруем текст
         string cipherText = Encrypt(plainText);
